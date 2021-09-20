@@ -80,4 +80,4 @@ sed -i 's/#5e72e4/#407994/g' package/lean/luci-theme-argon_armygreen/htdocs/luci
 sed -i 's@.*CYXluq4wUazHjmCDBCqXF*@#&@g' package/lean/default-settings/files/zzz-default-setting
 
 # 修改默认wifi名称ssid为Xiaomi_R4A
-sed -i 's/ssid=OpenWrt/ssid=Xiaomi_0DC5/g' package/kernel/mac80211/files/lib/wifi/mac80211.sh
+sed -i 's/ssid=OpenWrt/ssid=Xiaomi_24k/g' package/kernel/mac80211/files/lib/wifi/mac80211.sh
